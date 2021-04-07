@@ -1,0 +1,153 @@
+
+
+{
+	"items": [
+		{
+			"text": "音视频",
+			"children": [
+				{
+					"text": "头像视频卡",
+					"id": 1,
+					"reason": "网络带宽不足、设备性能瓶颈、用户误操作等",
+					"content": "■ 关闭其他无关的应用/软件</br>■ 切换到高质网络</br>■ 开启“不看同学”模式</br>■ 退出应用重新进入</br>",
+					"imageSrc": "/image/cut_video.jpg"
+				},
+				{
+					"text": "头像视频模糊或有马赛克",
+					"id": 2,
+					"reason": "",
+          "content": "■ 关闭其他无关的应用/ 软件</br >■ 切换到高质网络</br >■ 退出应用重新进入</br >",
+					"imageSrc": ""
+				},
+				{
+					"text": "绿屏、花屏或黑白屏",
+					"id": 3,
+					"reason": "",
+          "content": "■ 关闭其他无关的应用/软件</br>■ 切换到高质网络</br>■ 退出应用重新进入</br>",
+					"imageSrc": ""
+				},
+				{
+					"text": "声音有回声、杂音",
+					"id": 4,
+					"reason": "",
+          "content": "■ 待补充",
+					"imageSrc": ""
+				},
+				{
+					"text": "看不到视频或听不到声音",
+					"id": 5,
+					"reason": "",
+          "content": "■ 关闭其他无关的应用/软件</br>■ 切换到高质网络</br>■ 退出应用重新进入</br>",
+					"imageSrc": ""
+				}
+			]
+		},
+		{
+			"text": "ppt",
+			"children": [
+				{
+					"text": "ppt打开不了",
+          "id": 1,
+          "reason": "网络异常、PPT格式问题",
+          "content": "■ 检查当前网络是否正常</br>■ 刷新当前PPT</br>■ 刷新白板</br>■ 退出应用重新进入</br>■ 将PPT提交给客服同事",
+          "imageSrc": "/image/refresh_ppt.jpg"
+				},
+				{
+					"text": "ppt某页打不开",
+          "id": 2,
+          "reason": "网络异常、PPT格式问题",
+          "content": "■ 检查当前网络是否正常</br>■ 刷新当前页</br>■ 刷新白板</br>■ 退出应用重新进入</br>■ 将PPT提交给客服同事",
+          "imageSrc": "/image/refresh_ppt.jpg"
+				},
+				{
+					"text": "上传ppt转码失败",
+          "id": 3,
+          "reason": "PPT格式问题",
+          "content": "■ 用Power Point 打开ppt，如提示修复点击修复，保存，重新上传</br>■ 将PPT提交给客服同事</br>",
+          "imageSrc": ""
+				}
+			]
+		},
+		{
+			"text": "文件上传",
+			"children": [
+				{
+					"text": "上传文件失败",
+          "id": 1,
+          "reason": "网络抖动、腾讯云cos异常",
+          "content": "■ 留意页面上传失败的错误提示</br>■ 重新尝试上传</br>",
+          "imageSrc": ""
+				}
+			]
+		},
+		{
+			"text": "本地日志上传",
+			"children": [
+				{
+					"text": "日志上传",
+          "id": 1,
+          "reason": "",
+          "content": "■ 点击上传日志按钮</br>",
+          "imageSrc": "/image/upload_log.jpg"
+				}
+			]
+		},
+		{
+			"text": "网络异常",
+			"children": [
+				{
+					"text": "登录验证码刷不出来",
+          "id": 1,
+          "reason": "域名解析异常、DNS服务器异常",
+          "content": "■ 检查当前网络是否正常。如网络有问题，请联系运营商</br>■ 网络正常，但验证码刷不出来，需要修改dns</br>■ windows:  https://zhidao.baidu.com/question/1704903795598756500.html</br>■  mac: https://jingyan.baidu.com/article/86f4a73eab9c6237d6526913.html",
+          "imageSrc": ""
+				},
+				{
+					"text": "网络错误，请检查网络",
+          "id": 2,
+          "reason": "域名解析异常、DNS服务器异常、后台服务异常",
+          "content": "■ 检查当前网络是否正常。如网络有问题，请联系运营商</br>■ 网络正常, 但操作一直提示“网络错误，请检查网络”,，需要修改dns</br>■ windows:  https://zhidao.baidu.com/question/1704903795598756500.html</br>■  mac: https://jingyan.baidu.com/article/86f4a73eab9c6237d6526913.html",
+          "imageSrc": ""
+				}
+			]
+		},
+		{
+			"text": "版本更新1",
+			"children": [
+				{
+					"text": "下载安装包失败",
+          "id": 1,
+          "reason": "网络抖动、下载文件有误",
+          "content": "■ 检查当前网络是否正常。</br>■ 访问官网下载安装包",
+          "imageSrc": ""
+				}
+			]
+		},
+		{
+			"text": "硬件&网络要求",
+			"children": [
+				{
+					"text": "网络要求",
+          "id": 1,
+          "reason": "",
+          "content": "■ 国内延迟50ms以内</br>■ 国外延迟500ms以内</br>■ 丢包率0%</br>■ 上下行带宽2M以上</br>",
+          "imageSrc": ""
+				},
+				{
+					"text": "PC硬件要求",
+          "id": 2,
+          "reason": "",
+          "content": "■ Intel i3及以上处理器（如果老师有录课需求，需要Intel i5以上处理器）</br>■ Windows 7及更高版本</br>■ Intel处理器操作系统 (尽量要不使用mac再安装windows，可能有意想不到的问题出现)</br>■ Mac OS X10.10及更高版本</br>■ 内存：windows > 4G, MasOS: > 8G</br>",
+          "imageSrc": ""
+				},
+				{
+					"text": "移动端硬件要求",
+          "id": 3,
+          "reason": "",
+          "content": "■ iPad Pro (9.7-inch)</br>■ A1673、A1674、A1675、iPad Pro (10.5-inch)</br>■ A1701、A1709、iPad Pro (11-inch)</br>■ A1980、A1934、A1979、A1980、A2013、iPad Pro (12.9-inch)</br>■ A1584、A1652、A1876、A1895、A1983、A2014、A1670、A1671、A1821、iPad (5th generation)</br>■ A1822、A1823、iPad (6th generation)</br>■ A1893、A1954</br>",
+          "imageSrc": ""
+				}
+			]
+		}
+	]
+}
